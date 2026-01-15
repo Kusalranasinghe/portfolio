@@ -36,15 +36,16 @@ I am a beginner web developer with a strong interest in front-end and back-end d
 - Programming: C
 
 ## 📸 Preview
-_Add screenshots of your portfolio here_
+<img width="1835" height="4579" alt="Opera Snapshot_2026-01-15_203447_index html" src="https://github.com/user-attachments/assets/daf4ab68-5ace-456e-abbf-d782cffb4534" />
+
 
 ## 🔗 Live Demo
-_Add your portfolio live link here_
+https://kusalranasinghe.github.io/portfolio/
 
 ## 📬 Contact
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourusername
-- Email: yourmail@gmail.com
+- GitHub: https://github.com/kusalranasinghe
+- LinkedIn: https://linkedin.com/in/kusalranasinghe
+- Email: dananjayakusal39@gmail.com
 
 ## 📌 Status
 This portfolio is continuously updated as I learn new technologies and build more projects.
