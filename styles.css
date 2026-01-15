@@ -24,6 +24,11 @@ body {
     text-decoration: none;
 }
 
+.navbar a:hover {
+    color: #fff;
+    transition: 0.3s;
+}
+
 .logo {
     color: #b084ff;
 }
@@ -140,7 +145,8 @@ body {
 
 .project-card {
     height: 220px;
-    background: linear-gradient(135deg, #7a4bff, #ff7ae5);
+    width: 550px;
+    background: linear-gradient(135deg, #4d1dd0, #b844a1);
     border-radius: 16px;
 }
 
