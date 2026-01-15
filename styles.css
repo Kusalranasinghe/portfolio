@@ -37,6 +37,12 @@ body {
     cursor: pointer;
 }
 
+.btn:hover {
+    background: linear-gradient(45deg, #b084ff, #7a4bff);
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+
 /* HERO */
 .hero {
     display: flex;
@@ -70,6 +76,17 @@ body {
 
 .stats h2 {
     color: #b084ff;
+}
+
+.social-icon {
+   color: #b084ff;
+   padding-left: 20px;
+   font-size: 26px;
+}
+
+.social-icon:hover {
+    transform: scale(1.1);
+    transition: 1s;
 }
 
 /* SECTIONS */
