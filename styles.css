@@ -139,16 +139,53 @@ body {
 /* PROJECTS */
 .projects {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 25px;
 }
 
 .project-card {
-    height: 220px;
-    width: 550px;
-    background: linear-gradient(135deg, #4d1dd0, #b844a1);
+    height: 300px;
+    width: 400px;
+    background: linear-gradient(135deg, #0a0123, #200246);
     border-radius: 16px;
+    padding: 20px;
+    color: beige;
+    text-align: left;
 }
+
+.project-card p {
+    font-size: 14px;
+    margin-top: 18px;
+}
+
+.project-card button {
+    margin-top: 20px;
+    padding: 8px 16px;
+    background: #b084ff;
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.project-card a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.project-card button:hover {
+    background: #7a4bff;
+    transition: 0.3s;
+    transform: scale(1.05);
+}
+
+.project-card .tech-icon {
+    font-size: 40px;
+    margin-right: 10px;
+    color: #fff;
+    
+}
+
 
 /* EXPERIENCE */
 .two-col {
