@@ -36,7 +36,8 @@ I am a beginner web developer with a strong interest in front-end and back-end d
 - Programming: C
 
 ## 📸 Preview
-<img width="1835" height="4579" alt="Opera Snapshot_2026-01-15_203447_index html" src="https://github.com/user-attachments/assets/daf4ab68-5ace-456e-abbf-d782cffb4534" />
+<img width="1835" height="4579" alt="image" src="https://github.com/user-attachments/assets/cb378d1d-0510-4f69-8bec-425b5d7b026f" />
+
 
 
 ## 🔗 Live Demo
