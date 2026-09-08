@@ -35,11 +35,6 @@ I am a beginner web developer with a strong interest in front-end and back-end d
 - Design: Figma
 - Programming: C
 
-## 📸 Preview
-<img width="1835" height="4579" alt="image" src="https://github.com/user-attachments/assets/cb378d1d-0510-4f69-8bec-425b5d7b026f" />
-
-
-
 ## 🔗 Live Demo
 https://kusalranasinghe.github.io/portfolio/
 
