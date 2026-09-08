@@ -2214,7 +2214,8 @@ body {
     }
 }
 
-.skills,
+#skills,
+#projects,
 .experience-section,
 .contact-section {
     background: radial-gradient(
